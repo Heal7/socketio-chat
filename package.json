@@ -1,0 +1,15 @@
+{
+  "name": "chat-socket.io",
+  "version": "0.0.1",
+  "description": "A IM system built by yaghijaun",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "yagijaun",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "socket.io": "^1.7.2"
+  }
+}
